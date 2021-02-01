@@ -23,8 +23,8 @@ In the specific, the solution have to discriminate between images depending on t
 Problem: perform segmentation of images divided into different folders based on the team that acquired the image, i.e., Bipbip, Pead, Roseau, Weedelec. 
 For each team, we have two different sub-folders named as the type of crop present in the images, i.e., Haricot and Mais.
 
-[<img src="/deliverables/segmentation/mask1.jpg" width="200" />](/deliverables/segmentation/mask1.jpg) 
-[<img src="/deliverables/segmentation/img1.png" width="200" />](/deliverables/segmentation/img1.png) 
+[<img src="/deliverables/segmentation/mask.png" width="200" />](/deliverables/segmentation/mask.png) 
+[<img src="/deliverables/segmentation/img.jpg" width="200" />](/deliverables/segmentation/img.jpg) 
 [<img src="/deliverables/segmentation/pred.png" width="500" />](/deliverables/segmentation/pred.png) 
 
 [Challenge Link] (https://competitions.codalab.org/competitions/27176)
