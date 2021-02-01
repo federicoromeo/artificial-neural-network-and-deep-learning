@@ -9,9 +9,9 @@ In the specific, the solution have to discriminate between images depending on t
 * No person in the image is wearing a mask 
 * Someone in the image is not wearing a mask
  
-[<img src="/deliverables/classification/label1.jpg" width="300" height="300"/>](/deliverables/classification/label1.jpg) 1
-[<img src="/deliverables/classification/label2.jpg" width="300" height="300"/>](/deliverables/classification/label2.jpg) 2
-[<img src="/deliverables/classification/label3.jpg" width="300" height="300"/>](/deliverables/classification/label3.jpg) 3
+[<img src="/deliverables/classification/label1.jpg" width="300" height="250"/>](/deliverables/classification/label1.jpg) 1
+[<img src="/deliverables/classification/label2.jpg" width="300" height="250"/>](/deliverables/classification/label2.jpg) 2
+[<img src="/deliverables/classification/label3.jpg" width="300" height="250"/>](/deliverables/classification/label3.jpg) 3
 
 [Challenge link] (https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/overview)
 
@@ -24,7 +24,7 @@ Problem: perform segmentation of images divided into different folders based on 
 For each team, we have two different sub-folders named as the type of crop present in the images, i.e., Haricot and Mais.
 
 [<img src="/deliverables/segmentation/mask1.jpg" width="200" />](/deliverables/segmentation/mask1.jpg) 
-[<img src="/deliverables/segmentation/img1.png" width="200" />](/deliverables/segmentation/img1.png) pred:
+[<img src="/deliverables/segmentation/img1.png" width="200" />](/deliverables/segmentation/img1.png) 
 [<img src="/deliverables/segmentation/pred.png" width="500" />](/deliverables/segmentation/pred.png) 
 
 [Challenge Link] (https://competitions.codalab.org/competitions/27176)
