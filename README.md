@@ -13,9 +13,8 @@ In the specific, the solution have to discriminate between images depending on t
 [<img src="/deliverables/classification/label2.jpg" width="300" height="250"/>](/deliverables/classification/label2.jpg) 2
 [<img src="/deliverables/classification/label3.jpg" width="300" height="250"/>](/deliverables/classification/label3.jpg) 3
 
-[Challenge link] (https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/overview)
-
-[Dataset link] (https://www.kaggle.com/c/ann-and-dl-image-classification/data)
+<a href="https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/overview">Challenge Link &emsp;&emsp;</a>
+<a href="https://www.kaggle.com/c/ann-artificial-neural-networks-and-deep-learning-2020/data">Dataset Link</a>
 
 
 
@@ -24,12 +23,11 @@ Problem: perform segmentation of images divided into different folders based on 
 For each team, we have two different sub-folders named as the type of crop present in the images, i.e., Haricot and Mais.
 
 [<img src="/deliverables/segmentation/mask.png" width="200" />](/deliverables/segmentation/mask.png) 
-[<img src="/deliverables/segmentation/img.jpg" width="200" />](/deliverables/segmentation/img.jpg) 
+[<img src="/deliverables/segmentation/img.jpg" width="200" />](/deliverables/segmentation/img.jpg) pred:
 [<img src="/deliverables/segmentation/pred.png" width="500" />](/deliverables/segmentation/pred.png) 
 
-[Challenge Link] (https://competitions.codalab.org/competitions/27176)
-
-[Dataset link] (https://competitions.codalab.org/competitions/27176#learn_the_details-data)
+<a href="https://competitions.codalab.org/competitions/27176">Challenge Link &emsp;&emsp; </a>
+<a href="https://competitions.codalab.org/competitions/27176#learn_the_details-data">Dataset Link</a>
 
 ## Visual Question Answering (VQA)
 
@@ -40,7 +38,7 @@ which are about the content of the images. Given an image and a question, the go
 
 [<img src="/deliverables/vqa/example.png" width="400" />](/deliverables/vqa/example.png) 
 
+<a href="https://www.kaggle.com/c/anndl-2020-vqa">Challenge Link &emsp;&emsp;</a>
+<a href="https://www.kaggle.com/c/anndl-2020-vqa/data">Dataset Link</a>
 
-[Dataset Link] (https://www.kaggle.com/c/anndl-2020-vqa/data)
 
-[Challenge link] (https://www.kaggle.com/c/anndl-2020-vqa)
