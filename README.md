@@ -18,7 +18,9 @@ In the specific, the solution have to discriminate between images depending on t
 
 
 
+
 ## Image Segmentation
+
 Problem: perform segmentation of images divided into different folders based on the team that acquired the image, i.e., Bipbip, Pead, Roseau, Weedelec. 
 For each team, we have two different sub-folders named as the type of crop present in the images, i.e., Haricot and Mais.
 
@@ -29,9 +31,10 @@ For each team, we have two different sub-folders named as the type of crop prese
 <a href="https://competitions.codalab.org/competitions/27176">Challenge Link &emsp;&emsp; </a>
 <a href="https://competitions.codalab.org/competitions/27176#learn_the_details-data">Dataset Link</a>
 
+
+
+
 ## Visual Question Answering (VQA)
-
-
 
 Problem: The dataset is composed by synthetic scenes (see examples below), in which people and objects interact, and by corresponding questions,
 which are about the content of the images. Given an image and a question, the goal is to provide the correct answer.
@@ -40,5 +43,4 @@ which are about the content of the images. Given an image and a question, the go
 
 <a href="https://www.kaggle.com/c/anndl-2020-vqa">Challenge Link &emsp;&emsp;</a>
 <a href="https://www.kaggle.com/c/anndl-2020-vqa/data">Dataset Link</a>
-
 
