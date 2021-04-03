@@ -37,7 +37,7 @@ For each team, we have two different sub-folders named as the type of crop prese
 ## Visual Question Answering (VQA)
 
 Problem: The dataset is composed by synthetic scenes (see examples below), in which people and objects interact, and by corresponding questions,
-which are about the content of the images. Given an image and a question, the goal is to provide the correct answer.
+which are about the content of the images. Given an image and a question, the goal is to provide the correct answer (from a fixed set).
 
 [<img src="/deliverables/vqa/example.png" width="400" />](/deliverables/vqa/example.png) 
 
