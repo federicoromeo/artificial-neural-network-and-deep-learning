@@ -9,9 +9,9 @@ In the specific, the solution have to discriminate between images depending on t
 * No person in the image is wearing a mask 
 * Someone in the image is not wearing a mask
  
-[<img src="/deliverables/classification/label1.jpg" width="300" height="250"/>](/deliverables/classification/label1.jpg) 1
-[<img src="/deliverables/classification/label2.jpg" width="300" height="250"/>](/deliverables/classification/label2.jpg) 2
-[<img src="/deliverables/classification/label3.jpg" width="300" height="250"/>](/deliverables/classification/label3.jpg) 3
+[<img src="/deliverables/classification/label1.jpg" width="250" height="250"/>](/deliverables/classification/label1.jpg) 1
+[<img src="/deliverables/classification/label2.jpg" width="250" height="250"/>](/deliverables/classification/label2.jpg) 2
+[<img src="/deliverables/classification/label3.jpg" width="250" height="250"/>](/deliverables/classification/label3.jpg) 3
 
 <a href="https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/overview">Challenge Link &emsp;&emsp;</a>
 <a href="https://www.kaggle.com/c/ann-artificial-neural-networks-and-deep-learning-2020/data">Dataset Link</a>
